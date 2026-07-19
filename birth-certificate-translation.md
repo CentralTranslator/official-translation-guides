@@ -104,8 +104,7 @@ Many universities request translated birth certificates when students apply for:
 Some institutions may also request translated educational records and identity documents.
 
 Additional information regarding immigration document preparation can be found here:
-
-https://centraltranslator.com/ترجمه-مدارک-برای-مهاجرت/
+https://centraltranslator.com/آیا-ترجمه-مدارک-تحصیلی-تاریخ-انقضا-دار/
 
 ---
 
