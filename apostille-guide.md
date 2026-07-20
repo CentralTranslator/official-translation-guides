@@ -165,3 +165,226 @@ Although procedures differ among countries, the process generally follows these 
 Some countries require translation before apostille, while others require translation afterward.
 
 Always verify the correct sequence for your destination.
+
+# Preparing Documents Before Apostille
+
+Before beginning the apostille process, applicants should carefully review the documents they intend to submit.
+
+A complete and well-prepared document package helps reduce unnecessary delays and minimizes the possibility of additional requests.
+
+Before submitting your documents, verify that:
+
+- Every required page is included.
+- Documents are complete and readable.
+- Names are consistent across all records.
+- Dates are accurate.
+- Official signatures are visible.
+- Government seals can be identified.
+- Documents have not been altered or damaged.
+
+If an official translation is required, applicants should also verify whether the translation must be completed before or after the apostille process.
+
+---
+
+# Frequently Required Supporting Documents
+
+Depending on the purpose of the application, apostille requests are often submitted together with additional documents, including:
+
+- Passport
+- National identity card
+- Birth certificate
+- Marriage certificate
+- Academic diploma
+- Academic transcript
+- Criminal record certificate
+- Power of attorney
+- Business registration documents
+- Court documents
+
+The exact requirements depend on the receiving authority and the destination country.
+
+---
+
+# Choosing the Right Translation Provider
+
+If your documents require translation before authentication, selecting an experienced translation provider is important.
+
+A professional translation provider should offer:
+
+- Experience with official documents
+- Accurate legal and administrative terminology
+- Consistent formatting
+- Careful proofreading
+- Confidential handling of personal information
+- Knowledge of document authentication procedures
+
+Applicants should always confirm whether the receiving authority requires official, certified, or sworn translations.
+
+---
+
+# Common Mistakes
+
+Many authentication delays occur because applicants overlook small but important details.
+
+Common mistakes include:
+
+- Submitting incomplete documents
+- Using low-quality scans
+- Providing inconsistent personal information
+- Translating documents unnecessarily
+- Requesting an apostille for documents that are not eligible
+- Following outdated procedures
+- Ignoring destination country requirements
+- Missing supporting documents
+- Waiting until application deadlines
+
+Carefully reviewing document requirements before submission can help avoid unnecessary delays.
+
+---
+
+# Frequently Asked Questions
+
+## Does an apostille verify the contents of a document?
+
+No.
+
+An apostille verifies the authenticity of the signature, seal, or official capacity of the person who signed the document. It does not confirm that the document's contents are accurate.
+
+---
+
+## Does every country accept apostilles?
+
+No.
+
+Only countries that participate in the Hague Apostille Convention generally recognize apostilles.
+
+Other countries may require embassy or consular legalization instead.
+
+---
+
+## Is translation always required before obtaining an apostille?
+
+Not necessarily.
+
+The required order depends on the destination country's regulations.
+
+Applicants should verify current requirements before beginning the process.
+
+---
+
+## Can copies receive an apostille?
+
+In some jurisdictions, notarized copies may qualify for authentication.
+
+Requirements vary according to national regulations.
+
+---
+
+## Does an apostille have an expiration date?
+
+The apostille certificate itself generally does not expire.
+
+However, the receiving authority may require recently issued documents.
+
+---
+
+## Can digital documents receive an apostille?
+
+Some countries provide electronic apostille services for eligible documents.
+
+Availability depends on local government procedures.
+
+---
+
+## Is notarization always required?
+
+No.
+
+Some documents may require notarization before authentication, while others do not.
+
+Applicants should confirm the applicable procedure.
+
+---
+
+## Does an apostille replace official translation?
+
+No.
+
+Authentication and translation are separate procedures.
+
+Many applications require both.
+
+---
+
+## Can business documents receive an apostille?
+
+Yes.
+
+Depending on national regulations, many commercial and corporate documents may qualify for apostille authentication.
+
+---
+
+## Can academic documents receive an apostille?
+
+Yes.
+
+Academic diplomas, transcripts, and certain educational records may qualify, depending on local regulations.
+
+---
+
+# Related Guides
+
+You may also find these guides useful:
+
+- Birth Certificate Translation Guide
+- Marriage Certificate Translation Guide
+- Passport Translation Guide
+- Diploma Translation Guide
+- Academic Transcript Translation Guide
+- Embassy Document Checklist
+
+---
+
+# Further Reading
+
+## Immigration Document Translation
+
+https://centraltranslator.com/ترجمه-مدارک-برای-مهاجرت/
+
+---
+
+## Official English Translation Services
+
+https://centraltranslator.com/دارالترجمه-رسمی-انگلیسی/
+
+---
+
+## Contact Central Translator
+
+https://centraltranslator.com/تماس-با-دارالترجمه/
+
+---
+
+# About Central Translator
+
+Central Translator is an official translation office based in Tehran, Iran, providing professional translation services for individuals, students, businesses, and organizations.
+
+Our services include official document translation, educational document translation, legal translation, technical translation, multilingual document preparation, and support for international applications.
+
+Our goal is to deliver accurate, consistent, and professionally prepared translations suitable for official use.
+
+---
+
+# Disclaimer
+
+This guide is provided for informational purposes only.
+
+Apostille procedures, legalization requirements, document authentication policies, and government regulations may change over time. Applicants should always consult the relevant government authority, embassy, university, employer, or receiving organization for the latest official requirements before submitting their documents.
+
+---
+
+**Last Updated:** 2026
+
+**Repository:** Official Translation Guides
+
+**Maintained by:** Central Translator
